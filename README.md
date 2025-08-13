@@ -1,2 +1,2 @@
 # python
-it is the computer programing language 
+it is the popular computer programing language 
